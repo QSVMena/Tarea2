@@ -1,4 +1,5 @@
 package View;
+import Controlador.CalculoPrimoControlador;
 import Controlador.MruControlador;
 import Controlador.ProyectilController;
 
@@ -12,12 +13,21 @@ public class Main {
 		//resultado = mruController.CalculoVelocidad(mruView.ImputMru());
 		//mruView.result(resultado);
 		
-		ProyectilView proyectilView = new ProyectilView();
+		//ProyectilView proyectilView = new ProyectilView();
 		
-		ProyectilController proyectilController = new ProyectilController();
-		double result = 0;
-		result = proyectilController.CalculoProyectil(proyectilView.imputModel());
-		proyectilView.resultado(result);
+		//ProyectilController proyectilController = new ProyectilController();
+		//double result = 0;
+		//result = proyectilController.CalculoProyectil(proyectilView.imputModel());
+		//proyectilView.resultado(result);
+		
+		CalculoPrimoView calcular = new CalculoPrimoView();
+		
+		CalculoPrimoControlador CalculoController = new CalculoPrimoControlador();
+		String result = "";
+		result =CalculoController.CalculoPrimo(calcular.imputModel());
+		calcular.result(result);
+		
+		
 	}
 
 }

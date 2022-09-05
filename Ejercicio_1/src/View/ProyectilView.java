@@ -17,5 +17,7 @@ public class ProyectilView {
 	public void resultado (double result) {
 		System.out.printf("Calculo de la Altura del proyectil\n:%.2f", result);
 	}
+	
+	
 
 }
