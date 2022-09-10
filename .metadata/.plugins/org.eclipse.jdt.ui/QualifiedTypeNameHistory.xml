@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Model.MruModel"/>
+    <fullyQualifiedTypeName name="Controlador.MruControlador"/>
+    <fullyQualifiedTypeName name="Model.ProyectilModel"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="Controlador.ProyectilController"/>
+    <fullyQualifiedTypeName name="Model.CalculoPrimoModel"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Controlador.CalculoPrimoControlador"/>
+</qualifiedTypeNameHistroy>
