@@ -6,6 +6,9 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="Controlador.ProyectilController"/>
     <fullyQualifiedTypeName name="Model.CalculoPrimoModel"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="Controlador.CalculoPrimoControlador"/>
+    <fullyQualifiedTypeName name="Model.FactorialModel"/>
+    <fullyQualifiedTypeName name="View.FactorialView"/>
+    <fullyQualifiedTypeName name="Controlador.FactorialController"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
