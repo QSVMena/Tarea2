@@ -1,4 +1,4 @@
-package Model;
+package dol;
 
 public class ProyectilModel {
 	private double Angulo;

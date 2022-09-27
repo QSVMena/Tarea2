@@ -1,5 +1,5 @@
-package Controlador;
-import Model.MruModel;
+package main;
+import dol.MruModel;
 
 public class MruControlador {
 	public double CalculoVelocidad (MruModel mruModel) {

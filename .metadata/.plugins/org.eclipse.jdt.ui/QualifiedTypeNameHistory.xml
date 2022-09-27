@@ -11,4 +11,8 @@
     <fullyQualifiedTypeName name="View.FactorialView"/>
     <fullyQualifiedTypeName name="Controlador.FactorialController"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ui.CalculoPrimoView"/>
+    <fullyQualifiedTypeName name="ui.MruView"/>
+    <fullyQualifiedTypeName name="ui.FactorialView"/>
+    <fullyQualifiedTypeName name="ui.ProyectilView"/>
 </qualifiedTypeNameHistroy>

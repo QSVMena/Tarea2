@@ -1,6 +1,7 @@
-package View;
+package ui;
 import java.util.Scanner;
-import Model.ProyectilModel;
+
+import dol.ProyectilModel;
 
 public class ProyectilView {
 	

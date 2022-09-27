@@ -1,6 +1,7 @@
-package View;
-import Model.CalculoPrimoModel;
+package ui;
 import java.util.Scanner;
+
+import dol.CalculoPrimoModel;
 
 public class CalculoPrimoView {
 	

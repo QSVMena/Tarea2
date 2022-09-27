@@ -1,5 +1,5 @@
-package Controlador;
-import Model.FactorialModel;
+package main;
+import dol.FactorialModel;
 public class FactorialController {
 	
 	public double Factorial (FactorialModel Calculo) {

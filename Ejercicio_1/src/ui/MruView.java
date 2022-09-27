@@ -1,6 +1,7 @@
-package View;
+package ui;
 import java.util.Scanner;
-import Model.MruModel;
+
+import dol.MruModel;
 
 public class MruView {
 	

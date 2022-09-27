@@ -1,5 +1,5 @@
-package Controlador;
-import Model.CalculoPrimoModel;
+package main;
+import dol.CalculoPrimoModel;
 
 public class CalculoPrimoControlador {
 	public String CalculoPrimo (CalculoPrimoModel Calculo) {

@@ -1,5 +1,5 @@
-package Controlador;
-import Model.ProyectilModel;
+package main;
+import dol.ProyectilModel;
 
 public class ProyectilController {
 	

@@ -1,6 +1,7 @@
-package View;
-import Model.FactorialModel;
+package ui;
 import java.util.Scanner;
+
+import dol.FactorialModel;
 
 public class FactorialView {
 	 

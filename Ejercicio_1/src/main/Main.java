@@ -1,9 +1,14 @@
-package View;
-import Controlador.CalculoPrimoControlador;
+package main;
+import ui.CalculoPrimoView;
+import ui.MruView;
+import ui.FactorialView;
+import ui.ProyectilView;
 import java.util.Scanner;
-import Controlador.FactorialController;
-import Controlador.MruControlador;
-import Controlador.ProyectilController;
+
+import main.CalculoPrimoControlador;
+import main.FactorialController;
+import main.MruControlador;
+import main.ProyectilController;
 
 public class Main {
 
